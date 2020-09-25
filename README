@@ -1,0 +1,7 @@
+sowm config can be applied by cloning the sowm repo (https://github.com/dylanaraps/sowm.git), then replacing the config.def.h file with mine
+
+.TTF files go in ~/.fonts
+
+picom fork is https://github.com/ibhagwan/picom.git
+
+init.vim goes in ~/.config/nvim and depends on vim-plug. Once vim plug is installed, :PlugInstall will set it up
